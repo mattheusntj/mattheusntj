@@ -10,5 +10,5 @@
 
 
 <div> 
-<a href="https://https://www.linkedin.com/in/matheus-santos-731453310/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p><a target="_blank" href="www.linkedin.com/in/matheus-santos-731453310" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 </div>
