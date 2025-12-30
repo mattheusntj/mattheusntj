@@ -11,10 +11,11 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 
 
+  <div style="margin-top:10px">
   <a href="https://www.linkedin.com/in/matheus-santos-731453310" target="_blank">
     <img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      style="margin-left:12px"
     />
   </a>
 </div>
+ 
